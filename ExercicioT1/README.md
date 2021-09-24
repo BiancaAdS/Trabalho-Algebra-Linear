@@ -1,15 +1,21 @@
-# **Alunos:** André Luiz Coelho Silva e Bianca Albuquerque da Silva
-# Exercício Tecnológico T1 - Teoria dos Grafos e Matrizes**
+# Exercício Tecnológico T1 - Teoria dos Grafos e Matrizes
+### **Alunos:** André Luiz Coelho Silva e Bianca Albuquerque da Silva
 
 O código foi implementado para resolver um exercício de tecnologia sugerido no livro Álgebra Linear com Aplicações de Howard Anton e Chris Rorres, o exercício T1 letras (a), (b) e (f):
 
 ***Enunciado da Questão:***
 
-![enuniciadoT1](images\T1.PNG)
+<p align="center">
+  <img src="https://github.com/BiancaAdS/Trabalho-Algebra-Linear/blob/main/ExercicioT1/images/T1.PNG" alt="enunciadoT1">
+</p>
 
-![enuniciadoT1_ab](images\T1_ab.PNG)
+<p align="center">
+  <img src="https://github.com/BiancaAdS/Trabalho-Algebra-Linear/blob/main/ExercicioT1/images/T1_ab.PNG" alt="nunciadoT1_a_b">
+</p>
 
-![enuniciadoT1_f](images\T1_f.PNG)
+<p align="center">
+  <img src="https://github.com/BiancaAdS/Trabalho-Algebra-Linear/blob/main/ExercicioT1/images/T1_f.PNG" alt="enunciadoT1_f">
+</p>
 
 ***Funcionamento do código:***
 
